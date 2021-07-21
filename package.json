@@ -1,0 +1,22 @@
+{
+  "name": "sawdust.pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1vlad/sawdust.pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/f1vlad/sawdust.pro",
+  "bugs": {
+    "url": "https://github.com/f1vlad/sawdust.pro/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
